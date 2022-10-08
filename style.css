@@ -1,0 +1,59 @@
+{
+     background-color: blanchedalmond;
+    
+}
+.nav
+{
+    margin-left: 0%;
+}
+.about-row 
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.about-col
+{
+    padding: 5rem; 
+    text-align: center;
+}
+.images{
+    max-width: 50%;
+}
+.images-footer
+{
+    max-width: 10%;
+}
+.test
+{
+    margin-left: 20%;
+    padding: 3rem;
+    text-align: center;
+}
+.button {
+    background-color: #0b5f93;
+    border: none;
+    color: white;
+    padding: 20px 34px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 4cm;
+  }
+  .button-nav {
+    background-color:whitesmoke;
+    /* border: none; */
+    border-radius: 8cm;
+    color: whitesmoke;
+        /* padding: 5px 8px; */
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    margin: 2px 1px;
+    cursor: pointer;
+  }
+ 
